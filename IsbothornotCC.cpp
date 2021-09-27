@@ -1,3 +1,5 @@
+// Problem link: https://www.codechef.com/CCSTART2/problems/ISBOTH
+
 #include <iostream>
 using namespace std;
 
