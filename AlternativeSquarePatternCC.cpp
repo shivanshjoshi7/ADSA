@@ -1,3 +1,5 @@
+// Problem link: https://www.codechef.com/CCSTART2/problems/SQALPAT
+
 #include <iostream>
 #include <vector>
 using namespace std;
