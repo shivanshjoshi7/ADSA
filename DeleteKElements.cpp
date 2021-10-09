@@ -1,3 +1,10 @@
+/*
+Given an array arr[] and a number k. The task is to delete k elements which are smaller
+than next element (i.e., we delete arr[i] if arr[i] < arr[i+1]) or become smaller than next
+because next element is deleted.
+*/
+
+
 #include<iostream>
 #include<stack>
 using namespace std;
